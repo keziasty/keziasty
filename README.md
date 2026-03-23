@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 - Minecraft Developer
+- Discord Developer
 - Plugin & Mod Creator
 
 ## 🌐 Socials
