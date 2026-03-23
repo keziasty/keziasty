@@ -16,3 +16,4 @@
 
 ## 🔨 Projects
 - HoleMC.pl - 1.0, 2.0, 3.0
+- TemplateHUB - 1.0, 2.0
