@@ -1,6 +1,4 @@
-<p align="center">
-  Hi there 👋
-</p>
+<h2 align="center">Hi there 👋</h2>
 
 ## 🚀 About Me
 - Minecraft Dev
