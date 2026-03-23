@@ -4,7 +4,6 @@
 - Minecraft Dev
 
 ## 🌐 Socials
-<p align="center">
   <a href="https://guns.lol/keziasty">
     <img src="https://assets.guns.lol/guns_logo_no_background_cropped.png" width="40" height="40"/>
   </a>
